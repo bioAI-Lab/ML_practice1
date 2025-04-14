@@ -1,4 +1,4 @@
-# Структура данных data
+# Структура данных [data_practice](https://github.com/bioAI-Lab/ML_practice1/blob/main/data_practice.csv)
 
 | Параметр | Описание |
 |----------|----------|
